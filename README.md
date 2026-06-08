@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prvcds/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/prvcds/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prvcds/LeetCode_DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -43,10 +44,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prvcds/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prvcds/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prvcds/LeetCode_DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
