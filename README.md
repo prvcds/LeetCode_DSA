@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prvcds/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/prvcds/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prvcds/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prvcds/LeetCode_DSA/tree/master/0258-add-digits) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prvcds/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/prvcds/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
