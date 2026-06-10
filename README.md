@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prvcds/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/prvcds/LeetCode_DSA/tree/master/0283-move-zeroes) |
+| [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prvcds/LeetCode_DSA/tree/master/0001-two-sum) |
+| [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
