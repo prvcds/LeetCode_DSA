@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/prvcds/LeetCode_DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/prvcds/LeetCode_DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
