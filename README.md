@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/prvcds/LeetCode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/prvcds/LeetCode_DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/prvcds/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/prvcds/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/prvcds/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prvcds/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/prvcds/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/prvcds/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/prvcds/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 ## Union-Find
 |  |
 | ------- |
