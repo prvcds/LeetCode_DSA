@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prvcds/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/prvcds/LeetCode_DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/prvcds/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prvcds/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/prvcds/LeetCode_DSA/tree/master/0118-pascals-triangle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prvcds/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prvcds/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/prvcds/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/prvcds/LeetCode_DSA/tree/master/0189-rotate-array) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/prvcds/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/prvcds/LeetCode_DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
