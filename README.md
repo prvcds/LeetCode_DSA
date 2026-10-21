@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prvcds/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prvcds/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [1539-kth-missing-positive-number](https://github.com/prvcds/LeetCode_DSA/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/prvcds/LeetCode_DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0344-reverse-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
