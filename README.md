@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prvcds/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [1539-kth-missing-positive-number](https://github.com/prvcds/LeetCode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/prvcds/LeetCode_DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/prvcds/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/prvcds/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Union-Find
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prvcds/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prvcds/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prvcds/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
