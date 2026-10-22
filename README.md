@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1773-count-items-matching-a-rule](https://github.com/prvcds/LeetCode_DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1920-build-array-from-permutation](https://github.com/prvcds/LeetCode_DSA/tree/master/1920-build-array-from-permutation) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/prvcds/LeetCode_DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prvcds/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/prvcds/LeetCode_DSA/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/prvcds/LeetCode_DSA/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
