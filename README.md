@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1773-count-items-matching-a-rule](https://github.com/prvcds/LeetCode_DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/prvcds/LeetCode_DSA/tree/master/1920-build-array-from-permutation) |
+| [2032-two-out-of-three](https://github.com/prvcds/LeetCode_DSA/tree/master/2032-two-out-of-three) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/prvcds/LeetCode_DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/prvcds/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/prvcds/LeetCode_DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prvcds/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2032-two-out-of-three](https://github.com/prvcds/LeetCode_DSA/tree/master/2032-two-out-of-three) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/prvcds/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [2032-two-out-of-three](https://github.com/prvcds/LeetCode_DSA/tree/master/2032-two-out-of-three) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/prvcds/LeetCode_DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Enumeration
 |  |
