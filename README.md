@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/prvcds/LeetCode_DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/prvcds/LeetCode_DSA/tree/master/1920-build-array-from-permutation) |
 | [2032-two-out-of-three](https://github.com/prvcds/LeetCode_DSA/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/prvcds/LeetCode_DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/prvcds/LeetCode_DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prvcds/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2032-two-out-of-three](https://github.com/prvcds/LeetCode_DSA/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0344-reverse-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/prvcds/LeetCode_DSA/tree/master/1773-count-items-matching-a-rule) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prvcds/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
