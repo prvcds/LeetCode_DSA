@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prvcds/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/prvcds/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/prvcds/LeetCode_DSA/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/prvcds/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/prvcds/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/prvcds/LeetCode_DSA/tree/master/0454-4sum-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prvcds/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/prvcds/LeetCode_DSA/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/prvcds/LeetCode_DSA/tree/master/0289-game-of-life) |
 | [1920-build-array-from-permutation](https://github.com/prvcds/LeetCode_DSA/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prvcds/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prvcds/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prvcds/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/prvcds/LeetCode_DSA/tree/master/0289-game-of-life) |
 ## Greedy
 |  |
 | ------- |
