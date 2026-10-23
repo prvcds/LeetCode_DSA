@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/prvcds/LeetCode_DSA/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/prvcds/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/prvcds/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/prvcds/LeetCode_DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prvcds/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prvcds/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/prvcds/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/prvcds/LeetCode_DSA/tree/master/0152-maximum-product-subarray) |
+| [0376-wiggle-subsequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0376-wiggle-subsequence) |
 | [0509-fibonacci-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -204,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0376-wiggle-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
