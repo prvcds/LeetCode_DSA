@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/prvcds/LeetCode_DSA/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/prvcds/LeetCode_DSA/tree/master/2248-intersection-of-multiple-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/prvcds/LeetCode_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/prvcds/LeetCode_DSA/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/prvcds/LeetCode_DSA/tree/master/1773-count-items-matching-a-rule) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/prvcds/LeetCode_DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prvcds/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [2032-two-out-of-three](https://github.com/prvcds/LeetCode_DSA/tree/master/2032-two-out-of-three) |
+| [2351-first-letter-to-appear-twice](https://github.com/prvcds/LeetCode_DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/prvcds/LeetCode_DSA/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Enumeration
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prvcds/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/prvcds/LeetCode_DSA/tree/master/2248-intersection-of-multiple-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/prvcds/LeetCode_DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
