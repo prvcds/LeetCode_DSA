@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prvcds/LeetCode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/prvcds/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0454-4sum-ii](https://github.com/prvcds/LeetCode_DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prvcds/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prvcds/LeetCode_DSA/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0344-reverse-string) |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/prvcds/LeetCode_DSA/tree/master/1773-count-items-matching-a-rule) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -213,4 +216,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0376-wiggle-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
