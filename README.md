@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/prvcds/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/prvcds/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prvcds/LeetCode_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/prvcds/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
