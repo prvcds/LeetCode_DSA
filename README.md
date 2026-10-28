@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/prvcds/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/prvcds/LeetCode_DSA/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/prvcds/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/prvcds/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/prvcds/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/prvcds/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/prvcds/LeetCode_DSA/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prvcds/LeetCode_DSA/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/prvcds/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/prvcds/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prvcds/LeetCode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/prvcds/LeetCode_DSA/tree/master/0376-wiggle-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Depth-First Search
