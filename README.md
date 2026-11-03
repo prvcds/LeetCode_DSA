@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prvcds/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/prvcds/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/prvcds/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/prvcds/LeetCode_DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prvcds/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0567-permutation-in-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/prvcds/LeetCode_DSA/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/prvcds/LeetCode_DSA/tree/master/0399-evaluate-division) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prvcds/LeetCode_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/prvcds/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prvcds/LeetCode_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
