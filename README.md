@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prvcds/LeetCode_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/prvcds/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/prvcds/LeetCode_DSA/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/prvcds/LeetCode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1539-kth-missing-positive-number](https://github.com/prvcds/LeetCode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/prvcds/LeetCode_DSA/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prvcds/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/prvcds/LeetCode_DSA/tree/master/0904-fruit-into-baskets) |
 | [2032-two-out-of-three](https://github.com/prvcds/LeetCode_DSA/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/prvcds/LeetCode_DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/prvcds/LeetCode_DSA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -301,5 +303,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/prvcds/LeetCode_DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/prvcds/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/prvcds/LeetCode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prvcds/LeetCode_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
