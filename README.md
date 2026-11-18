@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/prvcds/LeetCode_DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/prvcds/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prvcds/LeetCode_DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/prvcds/LeetCode_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prvcds/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/prvcds/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/prvcds/LeetCode_DSA/tree/master/0231-power-of-two) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/prvcds/LeetCode_DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prvcds/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prvcds/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/prvcds/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/prvcds/LeetCode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prvcds/LeetCode_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/prvcds/LeetCode_DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
