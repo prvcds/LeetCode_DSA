@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prvcds/LeetCode_DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/prvcds/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/prvcds/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/prvcds/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/prvcds/LeetCode_DSA/tree/master/0046-permutations) |
@@ -200,11 +201,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prvcds/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/prvcds/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/prvcds/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prvcds/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/prvcds/LeetCode_DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prvcds/LeetCode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prvcds/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
