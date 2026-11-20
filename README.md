@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/prvcds/LeetCode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/prvcds/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/prvcds/LeetCode_DSA/tree/master/0904-fruit-into-baskets) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prvcds/LeetCode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prvcds/LeetCode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prvcds/LeetCode_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1710-maximum-units-on-a-truck](https://github.com/prvcds/LeetCode_DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/prvcds/LeetCode_DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/prvcds/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prvcds/LeetCode_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prvcds/LeetCode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/prvcds/LeetCode_DSA/tree/master/1539-kth-missing-positive-number) |
 ## Pigeonhole Principle
 |  |
